@@ -121,7 +121,7 @@ public void getResult(int a , int b, int c){
 
 
     }
-
+//
 
     public void ClickBtn1(View v) {
 
